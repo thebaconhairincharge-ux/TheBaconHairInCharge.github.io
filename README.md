@@ -1,2 +1,2 @@
 # TheBaconHairInCharge.github.io
-its real
+I made this so i can work on my website using HTML code that i learned.
